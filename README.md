@@ -11,7 +11,7 @@ Projects focused on urban flooding, drainage systems, and hydrological analysis.
 | Repository | Description | Tools |
 |---|---|---|
 | [flood-frequency-analysis](https://github.com/Ing-elvis-appiah/flood-frequency-analysis) | Interactive dashboard for flood frequency analysis using USGS streamflow data. Fits Gumbel, Normal, Log-Normal, GEV, and Log-Pearson III distributions with automatic best-fit selection. | Python, Dash, Plotly, SciPy |
-| [accra-flood-susceptibility-ml](https://github.com/Ing-elvis-appiah/accra-flood-susceptibility-ml) | Machine learning-based flood susceptibility mapping for Greater Accra, Ghana. Flood labels derived from Sentinel-1 SAR imagery of the June 2020 floods. Random Forest classifier trained on terrain, rainfall, vegetation, and land cover features extracted from Google Earth Engine. AUC: 0.982. | Python, GEE, scikit-learn, Streamlit |
+| [accra-flood-susceptibility-ml](https://github.com/Ing-elvis-appiah/Accra_Flood_ML_Prediction) | Machine learning-based flood susceptibility mapping for Greater Accra, Ghana. Flood labels derived from Sentinel-1 SAR imagery of the June 2020 floods. Random Forest classifier trained on terrain, rainfall, vegetation, and land cover features extracted from Google Earth Engine. AUC: 0.982. | Python, GEE, scikit-learn, Streamlit |
 
 ---
 
