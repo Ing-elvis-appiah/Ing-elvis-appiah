@@ -4,17 +4,14 @@ I'm a Civil Engineer from Kwame Nkrumah University of Science and Technology (KN
 
 I use this GitHub to document my engineering projects — from hydrological modelling and flood analysis to pavement design and transportation infrastructure. My goal is to build research capacity in West Africa and contribute to infrastructure policy through rigorous, data-driven engineering.
 
-
 ## 🌊 Water Resources & Hydrology
 
 Projects focused on urban flooding, drainage systems, and hydrological analysis.
 
 | Repository | Description | Tools |
-|------------|-------------|-------|
-| [flood-frequency-analysis](https://github.com/Ing-elvis-appiah/Flood-Frequency-Analysis) | Interactive dashboard for flood frequency analysis using USGS streamflow data. Fits Gumbel, Normal, Log-Normal, GEV, and Log-Pearson III distributions with automatic best-fit selection. | Python, Dash, Plotly, SciPy |
-| urban-drainage-swmm *(coming soon)* | EPA SWMM-based modelling of urban stormwater drainage systems with LID/SuDS scenarios | EPA SWMM, Python |
-| watershed-delineation *(coming soon)* | DEM-based watershed delineation and basin morphometric analysis | QGIS, Python, pysheds |
-| nbs-bibliometric-study *(coming soon)* | Bibliometric analysis of Nature-Based Solutions research using Scopus data, VOSviewer, and Bibliometrix | R, VOSviewer, Bibliometrix |
+|---|---|---|
+| [flood-frequency-analysis](https://github.com/Ing-elvis-appiah/flood-frequency-analysis) | Interactive dashboard for flood frequency analysis using USGS streamflow data. Fits Gumbel, Normal, Log-Normal, GEV, and Log-Pearson III distributions with automatic best-fit selection. | Python, Dash, Plotly, SciPy |
+| [accra-flood-susceptibility-ml](https://github.com/Ing-elvis-appiah/accra-flood-susceptibility-ml) | Machine learning-based flood susceptibility mapping for Greater Accra, Ghana. Flood labels derived from Sentinel-1 SAR imagery of the June 2020 floods. Random Forest classifier trained on terrain, rainfall, vegetation, and land cover features extracted from Google Earth Engine. AUC: 0.982. | Python, GEE, scikit-learn, Streamlit |
 
 ---
 
